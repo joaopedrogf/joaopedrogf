@@ -1,4 +1,4 @@
-## Saudações! Eu sou o joaopedrogf. ✌
+## Saudações! Me chamo João Pedro. ✌
 
  - Atualmente estou estudando: SQL e Python.
  - Meu objetivo: me tornar um cientista de dados.
